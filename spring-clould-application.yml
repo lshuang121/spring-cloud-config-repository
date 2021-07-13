@@ -1,0 +1,7 @@
+app:
+  name: Spring Cloud Application
+  version: 1.0.0
+spring:
+  cloud:
+    config:
+      overrideNode: true
